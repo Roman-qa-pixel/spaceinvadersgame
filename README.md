@@ -1,1 +1,2 @@
-# spaceinvadersgame
+# spaceinvadersgame 
+Space Invaders game in Python, created during my learning tutorials. The game has one spaceship and 6 enemies. The spaceship shoots with the laser. When the laser hits the enemie it dissapears and then appears higher. When the enemies lower down to the line where the spaceships slides, the game is over. The spaceship functions: horizontal sliding using PC arrow (left and right), laser shooting. Game has 3 types of sounds: background music, laser shooting sound, and enemie blowing sound.
